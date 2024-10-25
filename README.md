@@ -146,6 +146,10 @@ Demo projects for inspiration:
 * Beer brewing game [Beer Baron](https://github.com/cartridge-gg/beer-baron)
 * A Telegram mini app game [Beast Slayers](https://github.com/cartridge-gg/beast-slayers)
 
+Documentation:
+* Cairo [book](https://book.cairo-lang.org/)
+* Starknet [docs](https://docs.starknet.io/)
+
 ## Get help
 
 Join Starknet [Discord](https://discord.gg/4vUZATYu) server.
